@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![My banner](src/main/java/Pictures/my_designe.jpg)
+
 # About me 👋 
 
 I am a **Java developer** and **SQL developer** working as a teacher. 
