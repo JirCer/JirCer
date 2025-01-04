@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![My banner](src/main/java/Pictures/my_designe.jpg)
+![My banner](https://github.com/JirCer/My_pictures/blob/master/src/main/java/Pictures/my_designe.jpg)
 
 # About me 👋 
 
