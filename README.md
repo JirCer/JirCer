@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**JirCer/JirCer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me 👋 
 
-Here are some ideas to get you started:
+I am a **Java developer** and **SQL developer** working as a teacher. 
+My goal is to become a professional programmer and work in software development full-time. 💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I enjoy:
+- I love studying new technologies and improving my skills. 📚 
+- I'm passionate about traveling and discovering new places. ✈️ 
+
+### 🌟 My focus:
+- **Programming:** Java, SQL 
+- **Testing:** JUnit 5 
+- **Goals:** Improving in backend development and database systems 
+
+If you have interesting projects or opportunities, I’d be happy to get involved! 
+
