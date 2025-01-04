@@ -1,5 +1,4 @@
 ## Hi there 👋
-src/main/java/Pictures/my_designe.jpg
 
 # About me 👋 
 
