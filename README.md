@@ -13,7 +13,7 @@ My goal is to become a professional programmer and work in software development 
 
 ### 🌟 My focus:
 - **Programming:** Java, SQL 
-- **Testing:** JUnit 5 
+- **Testing:** JUnit 5, Hamcrest
 - **Goals:** Improving in backend development and database systems 
 
 If you have interesting projects or opportunities, I’d be happy to get involved! 
