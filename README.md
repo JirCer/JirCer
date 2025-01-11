@@ -4,7 +4,7 @@
 
 # About me 👋 
 
-I am a **Java developer** and **SQL developer** working as a teacher. 
+I am a **Java developer**, **SQL developer** and **Python developer** working as a teacher. 
 My goal is to become a professional programmer and work in software development full-time. 💻 
 
 ### 🧠 What I enjoy:
@@ -12,7 +12,7 @@ My goal is to become a professional programmer and work in software development 
 - I'm passionate about traveling and discovering new places. ✈️ 
 
 ### 🌟 My focus:
-- **Programming:** Java, SQL 
+- **Programming:** Java, SQL, Python 
 - **Testing:** JUnit 5, Hamcrest
 - **Goals:** Improving in backend development and database systems 
 
