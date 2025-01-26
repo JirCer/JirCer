@@ -16,6 +16,7 @@ My goal is to become a professional programmer and work in software development 
 - **Testing:** JUnit 5, Mockito, Hamcrest
 - **Development Environment:** IntelliJ IDEA 
 - **Goals:** Improving in backend development and database systems 
-- **Currently learning:** Java Spring Framework 6 🌱 
-If you have interesting projects or opportunities, I’d be happy to get involved! 
+- **Currently learning:** Java Spring Framework 6 🌱
+  
+- If you have interesting projects or opportunities, I’d be happy to get involved! 
 
